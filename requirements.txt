@@ -1,0 +1,5 @@
+fastapi==0.111.1
+uvicorn==0.24.0
+watchdog==3.0.0
+jdatetime==4.1.0
+pyinstaller==5.14.0
